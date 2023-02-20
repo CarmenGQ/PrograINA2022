@@ -1,0 +1,23 @@
+
+<head>
+<title> mis referencias</title>
+<meta charset="UTF-8">
+
+
+</head>
+
+<body bgcolor="lightblue">
+
+<ul>
+   <li><b>REFERENCIAS</b></li>
+     <ol type="i">
+      <li>PASANTE PATRONATO NACIONAL DE LA INFANCIA</li>
+      <li>BUFFET UNDERWOOD PARRITA, PUNTARENAS. (10 setiembre 2020 al 15 diciembre 2021) </li>
+      <li>ATV AND CANYONING MANUEL ANTONIO, QUEPOS (10 enero a 15 octubre 2022) </li>
+     </ol>
+
+
+</ul>
+
+
+</body>
